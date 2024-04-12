@@ -58,7 +58,6 @@ function recalculate(){
 // INSERT YOUR CODE HERE
 
 var modelButton=document.getElementById("model-button");
-
 function changeModel(){
     var model_text=document.getElementById("model-text");
     // Toggle the model name and update the display accordingly
